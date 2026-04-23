@@ -1,0 +1,15 @@
+name: barcode_safety_app
+description: Barcode Safety Checker
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^3.5.2
+  http: ^1.2.0
+
+flutter:
+  uses-material-design: true
