@@ -3,6 +3,11 @@
     "name": "My App",
     "slug": "my-app-slug",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "ce047ff5-cccb-4d5b-832a-6379f79e759d"
+      }
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
